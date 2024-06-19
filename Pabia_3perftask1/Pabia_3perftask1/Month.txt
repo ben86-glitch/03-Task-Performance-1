@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<style>
+    h2{
+        border:2px solid black;
+        font-size: 50px;
+        text-align: center;
+        color: white;
+        background-color:bisque;
+        margin-left: 850px;
+        margin-right: 850px;
+    }
+
+    p{
+        border: 3px solid black;
+        border-left-style: dotted;
+        border-right-style: double;
+        padding: 1px;
+        margin-top: 3px;
+        margin-bottom: 1px;
+        margin-right: 850px;
+        margin-left: 850px;
+        border-bottom-color: blue;
+        border-top-color: darkgrey;
+        text-align: center;
+    }
+
+    h1{
+        text-align: center;
+        font-weight: bold;
+    }
+    body{
+        color: black;
+        
+    }
+</style>
+
+<body>
+    <h2>
+        <a href="C:\Users\Complab502-01\Pabia_03PerfTask1\Nav.html">Home</a>
+    </h2>
+    <h1>Month</h1>
+    <p>January</p>
+    <p>March</p>
+    <p>August</p>
+    <p>December</p>
+  
+    <h3>January: </h3>
+    <p1>January is the first month of the year and is named after the two-faced Roman god Janus.</p1>
+    <br><img src="https://th.bing.com/th/id/OIP.kWEAUBEBmlaGdohlvj5LQQHaE8?rs=1&pid=ImgDetMain" weight="210" height="180">
+    <h3>March: </h3>
+    <p1>“March” is named for the Roman god of war, Mars. This was the time of year to resume military campaigns that had been interrupted by winter.</p1>
+    <br><img src="https://th.bing.com/th/id/R.e3c6b84fe2cd207c7bf2d30ce77f8b1b?rik=iS02M53fuoj9zA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-awMQsx8h7dQ%2fUSrWezirsxI%2fAAAAAAAADuE%2fcvrnXZgvLy4%2fs1600%2f03%2bMarch.jpg&ehk=Gy8yk0aGX%2fkKfP9MAM6jPXYJ7Nf737rW1EoKfo9BfUo%3d&risl=&pid=ImgRaw&r=0" weight="210" height="180">
+    <h3>August: </h3>
+    <p1>August is the last month of summer in the northern half of the world. It is named after the first Roman emperor, Augustus Caesar.</p1>
+    <br><img src="https://th.bing.com/th/id/R.14e751f5b811458335b9a35af2feec0b?rik=%2bEPZUwuSGGmmPw&riu=http%3a%2f%2fgetdrawings.com%2fcliparts%2faugust-clipart-3.jpg&ehk=rDyBF%2bDzPk8Yr6ImtHbEGXP5PMMte0SEKOMT3XjdsvE%3d&risl=&pid=ImgRaw&r=0" weight="210" height="180">
+    <h3>December: </h3>
+    <p1>The twelfth month of the year</p1>
+    <br><img src="https://th.bing.com/th/id/OIP.6J_4u4GRKyLujNP0_qF8VwAAAA?rs=1&pid=ImgDetMain" weight="210" height="180">
+</body>
+</html>
